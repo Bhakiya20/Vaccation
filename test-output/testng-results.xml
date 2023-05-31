@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-30T14:08:03 IST" name="Default suite" finished-at="2023-05-30T14:08:43 IST" duration-ms="40079">
+    <groups>
+    </groups>
+    <test started-at="2023-05-30T14:08:03 IST" name="Default test" finished-at="2023-05-30T14:08:43 IST" duration-ms="40079">
+      <class name="summer1.TestRun">
+        <test-method signature="browser()[pri:0, instance:summer1.TestRun@7b36aa0c]" started-at="2023-05-30T14:08:04 IST" name="browser" finished-at="2023-05-30T14:08:08 IST" duration-ms="4513" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browser -->
+        <test-method signature="url()[pri:1, instance:summer1.TestRun@7b36aa0c]" started-at="2023-05-30T14:08:08 IST" name="url" finished-at="2023-05-30T14:08:41 IST" duration-ms="32920" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- url -->
+        <test-method signature="click()[pri:2, instance:summer1.TestRun@7b36aa0c]" started-at="2023-05-30T14:08:41 IST" name="click" finished-at="2023-05-30T14:08:42 IST" duration-ms="1143" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click -->
+        <test-method signature="click1()[pri:3, instance:summer1.TestRun@7b36aa0c]" started-at="2023-05-30T14:08:42 IST" name="click1" finished-at="2023-05-30T14:08:43 IST" duration-ms="836" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- click1 -->
+        <test-method signature="input()[pri:4, instance:summer1.TestRun@7b36aa0c]" started-at="2023-05-30T14:08:43 IST" name="input" finished-at="2023-05-30T14:08:43 IST" duration-ms="440" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- input -->
+      </class> <!-- summer1.TestRun -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
